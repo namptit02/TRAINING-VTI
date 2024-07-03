@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Lab3Bai4 {
 
+
 //    BÀI 4
 //    Viết chương trình nhập 2 mảng họ tên và điểm của sinh viên.
 //    ü Xuất 2 mảng đã nhập, mỗi sinh viên có thêm học lực
